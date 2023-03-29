@@ -11,7 +11,7 @@ This is a solution to the [Launch countdown timer challenge on Frontend Mentor](
   - [Built With](#built-with)
 
 ## Overview
-A simple react app that displays the time left for a date 14 days ahead.
+A simple react app that displays the time left for a date 14 days ahead..
 
 ### The initial challenge
 
