@@ -8,7 +8,9 @@ const App = () => {
 
   const [timeleft, setTimeleft] = useState({});
 
-  const [finaldate, setFinalDate] = useState( "" );
+  const [finaldate, setFinalDate] = useState(new Date());
+
+  const monthNames = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
 
   useEffect(() => {
     var today = new Date();
@@ -56,7 +58,7 @@ const App = () => {
   return (
     <div>
       <div className='main-div'>
-        <h2 style={{ margin: 0, color: 'white', textAlign: 'center', fontFamily: 'Red Hat Text', letterSpacing: 5, margin: '0px 20px', marginTop: '20vh'}}>WE'RE LAUNCHING SOON</h2>
+        <h2 style={{ margin: 0, color: 'white', textAlign: 'center', fontFamily: 'Red Hat Text', letterSpacing: 5, margin: '0px 20px', marginTop: '20vh'}}>DAYS LEFT TO {finaldate.getDate() +" " + monthNames[finaldate.getMonth()].toUpperCase() +" "+ finaldate.getFullYear()}</h2>
         <div className='countdown-elements'>
           <div>
             <div id="days" className='numbers'>{timeleft.days}</div>
