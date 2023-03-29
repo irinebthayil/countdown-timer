@@ -24,8 +24,8 @@ Users should be able to:
 ![Desktop View](./screenshots/screenshot-desktop.png)
 
 ### Links
-- Solution URL: [Code](https://your-solution-url.com)
-- Live Site URL: [Launch countdown timer](https://your-live-site-url.com)
+- Solution URL: [Code](https://github.com/irinebthayil/countdown-timer.git)
+- Live Site URL: [Countdown timer](https://irinebthayil.github.io/countdown-timer/)
 
 ### Built with
 
