@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/countdown-timer/static/css/main.492a714d.css",
-    "main.js": "/countdown-timer/static/js/main.71e5bcb3.js",
+    "main.js": "/countdown-timer/static/js/main.d2b2bdce.js",
     "static/js/787.ffa0369f.chunk.js": "/countdown-timer/static/js/787.ffa0369f.chunk.js",
     "static/media/bg-stars.svg": "/countdown-timer/static/media/bg-stars.166881a1c03d6b1239f5.svg",
     "static/media/icon-instagram.svg": "/countdown-timer/static/media/icon-instagram.b94ff26a97e94b0abe8b977ee578df8a.svg",
@@ -10,11 +10,11 @@
     "index.html": "/countdown-timer/index.html",
     "static/media/icon-facebook.svg": "/countdown-timer/static/media/icon-facebook.a9208377508aef178a3de0fe0249cff5.svg",
     "main.492a714d.css.map": "/countdown-timer/static/css/main.492a714d.css.map",
-    "main.71e5bcb3.js.map": "/countdown-timer/static/js/main.71e5bcb3.js.map",
+    "main.d2b2bdce.js.map": "/countdown-timer/static/js/main.d2b2bdce.js.map",
     "787.ffa0369f.chunk.js.map": "/countdown-timer/static/js/787.ffa0369f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.492a714d.css",
-    "static/js/main.71e5bcb3.js"
+    "static/js/main.d2b2bdce.js"
   ]
 }
